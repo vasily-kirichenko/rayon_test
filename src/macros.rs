@@ -1,3 +1,5 @@
+extern crate time;
+
 #[macro_export]
 macro_rules! time { 
   ($name:expr, $x:expr) => {{
