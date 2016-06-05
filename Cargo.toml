@@ -1,0 +1,8 @@
+[package]
+name = "rayon_test"
+version = "0.1.0"
+authors = ["Vasily Kirichenko <vaskir@gmail.com>"]
+
+[dependencies]
+rayon = "*"
+time = "*"
